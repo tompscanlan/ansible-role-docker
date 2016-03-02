@@ -15,7 +15,7 @@ Available variables are listed below, along with default values (see `defaults/m
 
 Ubuntu version to use for aptitude package repositories.
 
-    docker_opes: (undefined)
+    docker_opts: (undefined)
 
 Docker options to add to the docker daemon run command. See defaults/main.yml.
 
